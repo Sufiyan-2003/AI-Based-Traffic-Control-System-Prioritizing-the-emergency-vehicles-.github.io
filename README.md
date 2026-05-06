@@ -78,7 +78,7 @@ Traffic-video-control/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Traffic-video-control.git
+git clone https://github.com/Sufiyan-2003/AI-Based-Traffic-Control-System-Prioritizing-the-emergency-vehicles-.github.io
 ```
 
 ---
@@ -206,3 +206,47 @@ If you like this project:
 - Star the repository ⭐
 - Fork the project 🍴
 - Share with others 🚀
+
+# 📚 Research Papers & References
+
+This project is inspired by and developed with reference to the following research papers and intelligent traffic management studies:
+
+---
+
+## 1️⃣ Real-time Traffic Monitoring System based on Deep Learning and YOLOv8
+
+This paper explains the implementation of a real-time traffic monitoring system using YOLOv8 for vehicle detection and traffic analysis. It highlights how deep learning improves traffic surveillance accuracy and supports smart city infrastructure development. The concepts of vehicle detection, object tracking, and intelligent monitoring helped shape the AI detection pipeline used in this project. :contentReference[oaicite:0]{index=0}
+
+🔗 Research Paper:  
+https://www.researchgate.net/publication/375675748_Real-time_Traffic_Monitoring_System_based_on_Deep_Learning_and_YOLOv8
+
+---
+
+## 2️⃣ Intelligent Traffic Signal and Smart Transportation Research
+
+This research focuses on intelligent traffic systems, adaptive traffic signal management, and AI-driven transportation optimization. The study inspired the dynamic traffic signal control mechanism and emergency vehicle prioritization implemented in this project. :contentReference[oaicite:1]{index=1}
+
+🔗 Research Paper:  
+https://www.sciencedirect.com/science/article/abs/pii/S1051200424002197?utm_source=chatgpt.com
+
+---
+
+## 3️⃣ Smart Traffic Detection and Monitoring using Computer Vision
+
+This paper discusses smart traffic detection methods using computer vision and deep learning techniques for real-time monitoring systems. The research contributed ideas related to multi-camera traffic analysis, traffic optimization, and intelligent surveillance architecture used in this system. :contentReference[oaicite:2]{index=2}
+
+🔗 Research Paper:  
+https://jutif.if.unsoed.ac.id/index.php/jurnal/article/view/4867?utm_source=chatgpt.com
+
+---
+
+# 📖 Research Contribution
+
+The implementation of this project combines:
+- YOLOv8-based vehicle detection
+- Real-time video processing
+- Intelligent traffic signal switching
+- Emergency vehicle prioritization
+- AI-based traffic monitoring concepts
+
+These research works provided valuable insights into building scalable and efficient smart traffic management systems for future smart cities.
