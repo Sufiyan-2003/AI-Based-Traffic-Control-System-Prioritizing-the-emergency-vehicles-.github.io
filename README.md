@@ -167,13 +167,12 @@ When an emergency vehicle is detected:
 # 📸 Screenshots
 
 ## Dashboard UI
-(Add project screenshots here)
+<img width="1919" height="875" alt="image" src="https://github.com/user-attachments/assets/dbb402d9-531c-4a1c-888e-2ca76e837514" />
+
 
 ## Vehicle Detection
-(Add detection screenshots here)
+<img width="1914" height="868" alt="image" src="https://github.com/user-attachments/assets/6f9ea726-3ea4-41dc-8356-5af047005ab3" />
 
-## Signal Control
-(Add traffic signal screenshots here)
 
 ---
 
