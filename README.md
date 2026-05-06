@@ -1,4 +1,4 @@
-# 🚦 AI Smart Traffic Control System
+# 🚦 AI Smart Traffic Control System 
 
 An AI-powered real-time traffic management system built using **YOLOv8**, **FastAPI**, **OpenCV**, and **WebSockets** to optimize traffic flow and intelligently manage traffic signals based on live vehicle detection.
 
