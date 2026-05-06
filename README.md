@@ -1,30 +1,30 @@
-# 🚦 AI Smart Traffic Control System 
+#  AI Smart Traffic Control System 
 
 An AI-powered real-time traffic management system built using **YOLOv8**, **FastAPI**, **OpenCV**, and **WebSockets** to optimize traffic flow and intelligently manage traffic signals based on live vehicle detection.
 
 ---
 
-# 📌 Project Overview
+#  Project Overview
 
 The AI Smart Traffic Control System analyzes live traffic video feeds from multiple cameras and dynamically controls traffic signals based on vehicle density and emergency vehicle detection. The system uses Computer Vision and Artificial Intelligence to improve road efficiency, reduce congestion, and prioritize emergency vehicles in real time.
 
 ---
 
-# ✨ Features
+#  Features
 
-- 🚗 Real-time vehicle detection using YOLOv8
-- 🚑 Emergency vehicle prioritization
-- 🚦 Intelligent traffic signal management
-- 📹 Multi-camera live monitoring
-- ⚡ Real-time frontend updates using WebSockets
-- 📊 Vehicle counting and ETA estimation
-- 🖥 Modern cyberpunk-style dashboard UI
-- 🔄 Automatic signal switching system
-- 📜 Live system logs
+-  Real-time vehicle detection using YOLOv8
+-  Emergency vehicle prioritization
+-  Intelligent traffic signal management
+-  Multi-camera live monitoring
+-  Real-time frontend updates using WebSockets
+-  Vehicle counting and ETA estimation
+-  Modern cyberpunk-style dashboard UI
+-  Automatic signal switching system
+-  Live system logs
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 ## Frontend
 - HTML5
@@ -43,7 +43,7 @@ The AI Smart Traffic Control System analyzes live traffic video feeds from multi
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```bash
 Traffic-video-control/
@@ -73,9 +73,9 @@ Traffic-video-control/
 
 ---
 
-# ⚙ Installation
+#  Installation
 
-## 1️⃣ Clone Repository
+## 1️ Clone Repository
 
 ```bash
 git clone https://github.com/Sufiyan-2003/AI-Based-Traffic-Control-System-Prioritizing-the-emergency-vehicles-.github.io
@@ -83,7 +83,7 @@ git clone https://github.com/Sufiyan-2003/AI-Based-Traffic-Control-System-Priori
 
 ---
 
-## 2️⃣ Open Project
+## 2️ Open Project
 
 ```bash
 cd Traffic-video-control
@@ -91,7 +91,7 @@ cd Traffic-video-control
 
 ---
 
-## 3️⃣ Create Virtual Environment
+## 3️ Create Virtual Environment
 
 ### Windows
 
@@ -107,7 +107,7 @@ venv\Scripts\activate
 
 ---
 
-## 4️⃣ Install Dependencies
+## 4️ Install Dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -115,7 +115,7 @@ pip install -r requirements.txt
 
 ---
 
-# ▶ Running the Project
+#  Running the Project
 
 ## Start Backend Server
 
@@ -138,7 +138,7 @@ http://127.0.0.1:8000
 
 ---
 
-# 🧠 How It Works
+#  How It Works
 
 1. Multiple traffic videos are processed simultaneously.
 2. YOLOv8 detects vehicles in each frame.
@@ -154,7 +154,7 @@ http://127.0.0.1:8000
 
 ---
 
-# 🚑 Emergency Vehicle Priority
+# Emergency Vehicle Priority
 
 When an emergency vehicle is detected:
 - The corresponding lane signal turns GREEN
@@ -164,7 +164,7 @@ When an emergency vehicle is detected:
 
 ---
 
-# 📸 Screenshots
+#  Screenshots
 
 ## Dashboard UI
 <img width="1919" height="875" alt="image" src="https://github.com/user-attachments/assets/dbb402d9-531c-4a1c-888e-2ca76e837514" />
@@ -176,7 +176,7 @@ When an emergency vehicle is detected:
 
 ---
 
-# 🔮 Future Improvements
+#  Future Improvements
 
 - AI-based adaptive timing
 - Real CCTV integration
@@ -187,32 +187,32 @@ When an emergency vehicle is detected:
 
 ---
 
-# 👨‍💻 Team Project
+# Team Project
 
 Developed as a collaborative AI + Computer Vision based smart city project.
 
 ---
 
-# 📄 License
+#  License
 
 This project is developed for educational and research purposes.
 
 ---
 
-# ⭐ Support
+#  Support
 
 If you like this project:
-- Star the repository ⭐
-- Fork the project 🍴
-- Share with others 🚀
+- Star the repository 
+- Fork the project 
+- Share with others 
 
-# 📚 Research Papers & References
+#  Research Papers & References
 
 This project is inspired by and developed with reference to the following research papers and intelligent traffic management studies:
 
 ---
 
-## 1️⃣ Real-time Traffic Monitoring System based on Deep Learning and YOLOv8
+## 1️ Real-time Traffic Monitoring System based on Deep Learning and YOLOv8
 
 This paper explains the implementation of a real-time traffic monitoring system using YOLOv8 for vehicle detection and traffic analysis. It highlights how deep learning improves traffic surveillance accuracy and supports smart city infrastructure development. The concepts of vehicle detection, object tracking, and intelligent monitoring helped shape the AI detection pipeline used in this project. :contentReference[oaicite:0]{index=0}
 
@@ -221,7 +221,7 @@ https://www.researchgate.net/publication/375675748_Real-time_Traffic_Monitoring_
 
 ---
 
-## 2️⃣ Intelligent Traffic Signal and Smart Transportation Research
+## 2️ Intelligent Traffic Signal and Smart Transportation Research
 
 This research focuses on intelligent traffic systems, adaptive traffic signal management, and AI-driven transportation optimization. The study inspired the dynamic traffic signal control mechanism and emergency vehicle prioritization implemented in this project. :contentReference[oaicite:1]{index=1}
 
@@ -230,7 +230,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S1051200424002197?utm_sour
 
 ---
 
-## 3️⃣ Smart Traffic Detection and Monitoring using Computer Vision
+## 3️ Smart Traffic Detection and Monitoring using Computer Vision
 
 This paper discusses smart traffic detection methods using computer vision and deep learning techniques for real-time monitoring systems. The research contributed ideas related to multi-camera traffic analysis, traffic optimization, and intelligent surveillance architecture used in this system. :contentReference[oaicite:2]{index=2}
 
@@ -239,7 +239,7 @@ https://jutif.if.unsoed.ac.id/index.php/jurnal/article/view/4867?utm_source=chat
 
 ---
 
-# 📖 Research Contribution
+# Research Contribution
 
 The implementation of this project combines:
 - YOLOv8-based vehicle detection
